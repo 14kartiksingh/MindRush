@@ -32,20 +32,16 @@ Built with React Native, Expo, TypeScript, and Expo Router.
 ---
 ## 📱 Screenshots
 
-### Home Screen
-![Home](screenshots/home.jpeg)
+<p align="center">
+  <img src="screenshots/home.jpeg" width="250"/>
+  <img src="screenshots/subject.jpeg" width="250"/>
+  <img src="screenshots/mode.jpeg" width="250"/>
+</p>
 
-### Subject Selection
-![Subject](screenshots/subject.jpeg)
-
-### Game Mode Selection
-![Mode](screenshots/mode.jpeg)
-
-### Gameplay
-![Gameplay](screenshots/gameplay.jpeg)
-
-### Results Screen
-![Result](screenshots/result.jpeg)
+<p align="center">
+  <img src="screenshots/gameplay.jpeg" width="250"/>
+  <img src="screenshots/result.jpeg" width="250"/>
+</p>
 
 ---
 
