@@ -1,50 +1,105 @@
-# Welcome to your Expo app 👋
+# 🧠 MindRush – Brain Training & Mental Math Challenge
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+MindRush is a modern brain-training mobile application designed to improve mental arithmetic speed, concentration, memory retention, and decision-making through engaging math-based challenges.
 
-## Get started
+Built with React Native, Expo, TypeScript, and Expo Router.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Features
 
-2. Start the app
+### Subjects
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔀 Mixed Mode
 
-   ```bash
-   npx expo start
-   ```
+### Game Modes
+- 🎯 Normal Mode
+- ⚡ Speed Mode
+- 👁️ Flash Mode
+- 🔄 Blink Mode
 
-In the output, you'll find options to open the app in a
+### Gameplay Features
+- Real-time score tracking
+- Best score saving
+- Haptic feedback
+- Smooth animations
+- Dynamic question generation
+- Instant result summaries
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📱 Screenshots
 
-## Get a fresh project
+_Add screenshots here_
 
-When you're ready, run:
+| Home | Gameplay | Result |
+|------|----------|---------|
+| Screenshot | Screenshot | Screenshot |
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🛠️ Tech Stack
 
-## Learn more
+- React Native
+- Expo SDK 54
+- TypeScript
+- Expo Router
+- React Native Reanimated
+- Expo Haptics
+- AsyncStorage
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📦 Download APK
 
-## Join the community
+### Latest Release
 
-Join our community of developers creating universal apps.
+Download the latest APK from the Releases section:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+👉 [Download MindRush APK](../../releases)
+
+---
+
+## 🎯 Purpose
+
+MindRush transforms traditional arithmetic practice into an engaging game experience.
+
+The app helps improve:
+
+- Mental Calculation Speed
+- Focus & Concentration
+- Short-Term Memory
+- Numerical Reasoning
+- Problem Solving Skills
+- Reaction Time
+
+---
+
+## 🔮 Future Updates
+
+- Daily Challenges
+- Achievements System
+- XP & Levels
+- Global Leaderboards
+- Streak Tracking
+- Themes & Customization
+
+---
+
+## 👨‍💻 Developer
+
+**Kartik Singh**
+
+### Built and maintained under MISTER CODERZ
+
+Website:
+https://mistercoderz.com
+
+---
+
+## ⭐ Support
+
+If you like the project, consider starring the repository.
