@@ -30,14 +30,22 @@ Built with React Native, Expo, TypeScript, and Expo Router.
 - Instant result summaries
 
 ---
-
 ## 📱 Screenshots
 
-_Add screenshots here_
+### Home Screen
+![Home](screenshots/home.jpeg)
 
-| Home | Gameplay | Result |
-|------|----------|---------|
-| Screenshot | Screenshot | Screenshot |
+### Subject Selection
+![Subject](screenshots/subject.jpeg)
+
+### Game Mode Selection
+![Mode](screenshots/mode.jpeg)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.jpeg)
+
+### Results Screen
+![Result](screenshots/result.jpeg)
 
 ---
 
